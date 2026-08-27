@@ -1,0 +1,14 @@
+# Modern combined-file transport used to test Directory placement.
+# Historical order is Data Designs, W-storage, Directory, then code.
+@section code
+(0) INPUT INVENTORY FILE-A PRICE FILE-B ; OUTPUT PRICED-INV FILE-C UNPRICED-INV FILE-D ; HSP D .
+(1) STOP . (END)
+@section directory
+DIRECTORY
+00W00000W000
+W-STORAGE
+END DIRECTRY
+@section data-design
+NAME OF FILE
+INVENTORY
+END FILE DES

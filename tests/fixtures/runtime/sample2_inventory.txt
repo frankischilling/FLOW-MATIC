@@ -1,0 +1,5 @@
+# Project-created. Inventory with a duplicate product number for Sample Problem 2.
+P00000000001|000000000010|          |          |          |          |          |          |          |
+P00000000001|000000000003|          |          |          |          |          |          |          |
+P00000000004|000000000001|          |          |          |          |          |          |          |
+END

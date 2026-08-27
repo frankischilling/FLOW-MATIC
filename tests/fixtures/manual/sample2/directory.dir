@@ -1,0 +1,8 @@
+# Directory for Sample Problem 2, printed page 68.
+# Word 02 is 00W00000W000 : start W000, highest word 000.
+DIRECTORY
+            
+00W00000W000
+W-STORAGE
+END DIRECTRY
+END DIRECTRY

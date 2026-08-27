@@ -1,0 +1,6 @@
+# Project-created test data. Not copied from the 1958 manual.
+# Inventory items: PRODUCT-NO | QUANTITY | padding words
+P00000000001|000000000010|          |          |          |          |          |          |          |
+P00000000003|000000000005|          |          |          |          |          |          |          |
+P00000000004|000000000001|          |          |          |          |          |          |          |
+END
