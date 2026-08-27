@@ -16,3 +16,8 @@ generated/
 tests/fixtures/runtime/out_*.txt
 tests/fixtures/runtime/out2_*.txt
 tests/fixtures/runtime/out3_*.txt
+
+# Local scans. The searchable U1518 OCR text is versioned separately.
+U1518_FLOW-MATIC_Programming_System_1958.pdf
+Univac_II_Marketing_Manual_Jun57.pdf
+Univac_II_Marketing_Manual_Jun57.txt
